@@ -1,0 +1,18 @@
+::1 - - [05/Jun/2026 19:43:37] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:43:50] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:45:03] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:51:42] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:51:42] "GET /resource/download.jpg HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:51:42] "GET /resource/beautiful%20traditional%20attire.jpg HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:51:43] "GET /resource/Heavy%20Embellished%20Bridal%20Saree.jpg HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:52:38] "GET /index.html HTTP/1.1" 304 -
+::1 - - [05/Jun/2026 19:53:02] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:53:35] "GET /index.html HTTP/1.1" 304 -
+::1 - - [05/Jun/2026 19:54:02] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:54:20] "GET /index.html HTTP/1.1" 304 -
+::1 - - [05/Jun/2026 19:57:50] "GET /index.html HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:57:50] "GET /resource/download.jpg HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:57:50] "GET /resource/beautiful%20traditional%20attire.jpg HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:57:50] "GET /resource/Heavy%20Embellished%20Bridal%20Saree.jpg HTTP/1.1" 200 -
+::1 - - [05/Jun/2026 19:59:34] code 404, message File not found
+::1 - - [05/Jun/2026 19:59:34] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -

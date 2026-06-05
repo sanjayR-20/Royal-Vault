@@ -2,7 +2,7 @@ import * as dotenv from 'dotenv';
 import express from 'express';
 import { Client } from 'pg';
 import { drizzle } from 'drizzle-orm/node-postgres';
-import * as schema from '../src/db/schema';
+import * as schema from '../../src/db/schema';
 
 // Import routes
 import authRoutes from './routes/auth';

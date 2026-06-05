@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { db } from '../index';
-import { users } from '../../src/db/schema';
+import { users } from '../../../src/db/schema';
 import { eq } from 'drizzle-orm';
 
 export const register = async (req: Request, res: Response) => {

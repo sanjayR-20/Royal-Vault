@@ -1,0 +1,8 @@
+
+> royal-vault-server@1.0.0 dev
+> tsx watch src/index.ts
+
+7:43:11 pm [tsx] change in ./src\controllers\auth.ts Rerunning...
+c◇ injected env (3) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+✓ Connected to PostgreSQL
+✓ Server running on http://localhost:3000

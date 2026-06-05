@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { db } from '../index';
-import { jewelryItems } from '../../src/db/schema';
+import { jewelryItems } from '../../../src/db/schema';
 import { eq } from 'drizzle-orm';
 
 export const getItems = async (req: Request, res: Response) => {
